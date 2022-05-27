@@ -1,0 +1,77 @@
+{
+  "offerLink": [
+    {
+      "id": "1",
+      "keyword": "Nồi chiên không dầu",
+      "name": "[Hàng nhập khẩu] Nồi Chiên Không Dầu Nine Shield 12.5 Lít, Điều Khiển Điện Tử, Công Suất 1500W, Bảo Hành 2 năm",
+      "link": "https://shp.ee/amgd6ar"
+    },
+    {
+      "id": "2",
+      "name": "Giấy ăn gấu trúc khăn giấy tre YCOOL 1 thùng 30 gói 300 tờ",
+      "link": "https://shp.ee/e23nx3z"
+    }
+  ],
+  "offerList": [
+    {
+      "id": "1",
+      "keyword": "Thời trang",
+      "items": [
+        {
+          "name": "KOL Lite - Thời Trang Nam",
+          "link": "https://shp.ee/n7h78ad",
+          "image": "https://cf.shopee.vn/file/687f3967b7c2fe6a134a2c11894eea4b"
+        },
+        {
+          "name": "KOL Lite - Thời Trang Nữ",
+          "link": "https://shp.ee/yqar2id",
+          "image": "https://cf.shopee.vn/file/75ea42f9eca124e9cb3cde744c060e4d"
+        }
+      ]
+    }
+  ],
+  "offerShop": [
+    {
+      "id": "2",
+      "keyword": "Giày dép",
+      "name": "Giày Dép Thời Trang MWC",
+      "link": "https://shp.ee/apa4ptr",
+      "image": "https://cf.shopee.vn/file/1dec703233d888be6174d1b76b51aed9"
+    }
+  ],
+  "offerProduct": [
+    {
+      "id": "1",
+      "keyword": "nam",
+      "items": [
+        {
+          "name": "Túi Ngủ Văn Phòng,Túi Ngủ Dã Ngoại Du Lịch Loại Xịn Cao Cấp Chính Hãng Đại Nam Sport",
+          "link": "https://shp.ee/6f25kqr",
+          "image": "https://cf.shopee.vn/file/ffdb923fa6a97c8f0e4e8d66cb125c22",
+          "price": "198000",
+          "sales": 57,
+          "commission": "63360",
+          "ec": "shopee"
+        },
+        {
+          "name": "[Mã 255FMCGSALE giảm 8% đơn 500K] Sữa Rửa Mặt NAM Làm Sạch Sâu Kiểm Soát Nhờn Ngừa Mụn (120 ml)",
+          "link": "https://shp.ee/arewcpz",
+          "image": "https://cf.shopee.vn/file/e7275dbc284e0cb8f6c734f8fc170c12",
+          "price": "190000",
+          "sales": 256,
+          "commission": "57000",
+          "ec": "shopee"
+        },
+        {
+          "name": "Combo Sạch Mụn Hết Thâm NAM Gồm Sữa Rửa Mặt 120ml Và Gel Mụn 15ml",
+          "link": "https://shp.ee/fqnngqr",
+          "image": "https://cf.shopee.vn/file/c82e63a2a92b7ceaff3aaf67d62583ae",
+          "price": "380000",
+          "sales": 132,
+          "commission": "114000",
+          "ec": "shopee"
+        }
+      ]
+    }
+  ]
+}
